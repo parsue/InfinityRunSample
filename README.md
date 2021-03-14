@@ -10,3 +10,5 @@ Spawner and Destoryer - simple map spawner and destroyer.
 
 All models were downloaded from Unity Assets Store for free.
 
+You may try the game here:
+https://simmer.io/@parsue/infinity-run-sample
