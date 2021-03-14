@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8901d1594598332479a7d612bd4b0664
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - growProfile: {fileID: 11400000, guid: e255861eb9eb3f04483e2439d9a0d743, type: 2}
+  - text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
